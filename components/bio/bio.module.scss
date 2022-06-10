@@ -1,0 +1,39 @@
+.bio {
+    @apply mx-auto my-5 py-5 border-b-2 border-gray-100;
+    .profile {
+        position: relative;
+        width: 268px;
+        @apply mx-auto my-5;
+
+        .hi {
+            font-size: 100px;
+            font-weight: 800;
+
+            .black {
+                color: black;
+                position: absolute;
+
+                bottom: -90px;
+                right: 67px;
+                z-index: 1;
+
+            }
+
+            .white {
+                color: white;
+                position: absolute;
+                bottom: -80px;
+                right: 60px;
+            }
+        }
+    }
+
+    .description {
+        @apply text-center;
+        margin-top: 60px;
+
+        p {
+            @apply tracking-wide font-light text-4xl leading-relaxed;
+        }
+    }
+}
