@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'James Ng Dev',
   author: 'James Nguyen',
-  headerTitle: "James Ng's Blog",
+  headerTitle: "👨🏻‍💻 James Ng's Blog",
   description: 'James Nguyen Blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
