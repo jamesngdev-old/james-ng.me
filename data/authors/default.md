@@ -1,20 +1,12 @@
 ---
-name: Tris Nguyen
+name: James Nguyen
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Fullstack Developer
+company: Comartek
+email: contact@james-ng.me
+twitter: https://twitter.com/jamesngdev
+linkedin: https://www.linkedin.com/jamesngdev
+github: https://github.com/jamesngdev
 ---
 
-Tris Nguyen is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity
-modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers,
-and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae
-arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus
-vulputate.
+I am Javascript Developer with 2 years of experience in Javascript technologies (Node.js, React.js, GraphQL, MongoDB..). Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups. I like helping other and work well with group. I can also do some mentoring tasks.
