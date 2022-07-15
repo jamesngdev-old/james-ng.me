@@ -18,10 +18,9 @@ export function Bio({ className }) {
         </div>
       </div>
       <div className={styles.description}>
-        <p>
-          I'm Nguyen Tri
-          <br />
-          I'm <span className="font-bold">developer</span> 👨🏻‍💻
+        <p>I'm Nguyen Tri </p>
+        <p className={styles.typing}>
+          I'm a <span className="font-bold">developer 👨🏻‍💻</span>
         </p>
       </div>
     </div>
