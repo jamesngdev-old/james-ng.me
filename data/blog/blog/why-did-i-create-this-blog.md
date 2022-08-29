@@ -1,7 +1,7 @@
 ---
 title: Why I created this blog?
 date: '2022-07-16'
-tags: ['blog']
+tags: ['blog', 'english']
 draft: false
 summary: 'First of all, welcome to my blog. This blog is where I share my knowledge
 about coding and also where I practice English writing skills. '
