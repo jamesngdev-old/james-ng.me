@@ -250,7 +250,7 @@ const ExperienceSection = () => (
 
 const InformationSection = () => (
   <Fragment>
-    <Image src="/static/images/avatar.png" alt="" className="w-52 rounded-xl" />
+    <img src="/static/images/avatar.png" alt="" className="w-52 rounded-xl" />
     <p className="mt-4 text-2xl font-medium uppercase text-slate-900">Nguyen Van Tri</p>
     <p className="font-light">(James Nguyen)</p>
 
@@ -284,7 +284,7 @@ const ProjectSection = () => (
       <div className="grid grid-cols-2 items-center gap-5">
         <div className="col-span-1 divide-y divide-gray-300 rounded-lg bg-white p-4 drop-shadow-md dark:bg-zinc-900 ">
           <div>
-            <Image
+            <img
               src="/static/images/projects/digicard.png"
               className="m-0"
               style={{
@@ -318,7 +318,7 @@ const ProjectSection = () => (
 
         <div className="col-span-1 divide-y divide-gray-300 rounded-lg bg-white p-4 drop-shadow-md dark:bg-zinc-900">
           <div>
-            <Image
+            <img
               src="/static/images/projects/hknet.png"
               className="w-fit"
               style={{
@@ -352,7 +352,7 @@ const ProjectSection = () => (
 
         <div className="col-span-1 divide-y divide-gray-300 rounded-lg bg-white p-4 drop-shadow-md dark:bg-zinc-900">
           <div>
-            <Image
+            <img
               src="/static/images/projects/fabin-toolkit.png"
               className="w-fit"
               style={{
@@ -386,7 +386,7 @@ const ProjectSection = () => (
 
         <div className="col-span-1 divide-y divide-gray-300 rounded-lg bg-white p-4 drop-shadow-md dark:bg-zinc-900">
           <div>
-            <Image
+            <img
               src="/static/images/projects/tigren-pwa.png"
               className="w-fit"
               style={{
