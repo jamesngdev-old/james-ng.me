@@ -25,7 +25,7 @@ const AboutSection = () => (
       <p>
         I am also the owner of an IT blog called:{' '}
         <a href="https://james-ng.me" className="text-blue-500">
-          jamesng-dev.me
+          james-ng.me
         </a>{' '}
         , and a{' '}
         <a href="https://james-ng.me" className="text-blue-500">
@@ -147,8 +147,8 @@ const SkillSection = () => (
 )
 
 const CertificateSection = () => (
-  <div className="certificate mt-6">
-    <h1 className="text-2xl font-bold uppercase">Certificates</h1>
+  <div className="certificate mt-6 opacity-5">
+    <h1 className="text-2xl font-bold uppercase">Certificates (My Target)</h1>
     <div className="item mt-4 rounded-lg bg-white  p-4 drop-shadow-md dark:bg-zinc-900">
       <div className="flex justify-between">
         <p className="text-sm font-light">Amazon</p>
